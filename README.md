@@ -15,7 +15,7 @@
 
 ## 🚀 About Me
 
-I'm a **Software Engineer**, Bengaluru, working as a  engineer on the GenAI platform — an enterprise-grade AI system serving **40,000+ users**, **6,000+ active use cases**, and **20+ production models**.
+I'm a **Software Engineer**, Bengaluru, working as a  engineer on the GenAI platform — an enterprise-grade AI system.
 
 I bridge the gap between users and product development, translating real-world enterprise needs into scalable AI solutions. My work spans building **agentic AI workflows**, implementing **content guardrails with zero-downtime failover**, and developing internal APIs for authentication, prompt orchestration, and response streaming.
 
